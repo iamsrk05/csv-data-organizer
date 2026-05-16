@@ -1,0 +1,47 @@
+CSV DATA ORGANIZER - SUMMARY REPORT
+=============================================
+
+Total employees: 120
+Total export quantity: 25,510,299
+Total production barrels: 40,222,809
+
+Employees by Country
+-------------------------
+South Korea: 37
+China: 24
+Germany: 23
+Iraq: 18
+Iran: 18
+
+Employees by Job Type
+-------------------------
+Digger: 26
+Engineer: 26
+Technician: 24
+Admin: 22
+Driver: 22
+
+Export Quantity by Country
+-------------------------
+Australia: 4,160,000
+China: 3,470,000
+Japan: 3,360,000
+Jordan: 3,290,000
+Norway: 4,130,299
+South Korea: 3,570,000
+Turkey: 3,530,000
+
+Production by Filtration Station
+-----------------------------------
+Gas Station 1: 5,584,861
+Gas Station 2: 4,363,803
+Oil Station 1: 7,980,830
+Oil Station 2: 7,442,987
+Oil Station 3: 5,288,163
+Oil Station 4: 9,562,165
+
+Production by Well
+--------------------
+DH-1: 14,202,181
+DH-2: 16,444,765
+DH-3: 9,575,863

@@ -1,0 +1,34 @@
+
+CSV Data Organizer Tool
+1. Show business summary
+2. Search employees
+3. Generate clean CSV files and summary report
+4. Exit
+Choose an option: Reports created successfully in: /mnt/data/csv-data-organizer/reports
+Summary report: /mnt/data/csv-data-organizer/reports/summary_report.txt
+
+CSV Data Organizer Tool
+1. Show business summary
+2. Search employees
+3. Generate clean CSV files and summary report
+4. Exit
+Choose an option: 
+Business Summary
+--------------------
+Employees loaded: 120
+Export records loaded: 37
+Production records loaded: 100
+Australia: 4,160,000 barrels exported
+China: 3,470,000 barrels exported
+Japan: 3,360,000 barrels exported
+Jordan: 3,290,000 barrels exported
+Norway: 4,130,299 barrels exported
+South Korea: 3,570,000 barrels exported
+Turkey: 3,530,000 barrels exported
+
+CSV Data Organizer Tool
+1. Show business summary
+2. Search employees
+3. Generate clean CSV files and summary report
+4. Exit
+Choose an option: Goodbye!

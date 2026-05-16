@@ -1,0 +1,38 @@
+oilName,usageDescription,Country,quantity,exportCompanyName,exportDate,CompanyAbbreviation
+Gasoline,Motor gasoline for internal combustion engines,Australia,650000,AUS Energy Pty,45966,AEP
+Gasoline,Motor gasoline for internal combustion engines,Norway,680000,Norway Oil Export,45972,NOE
+Gasoline,Motor gasoline for internal combustion engines,Turkey,690000,Turkish Energy A.S.,45978,TEA
+Gasoline,Motor gasoline for internal combustion engines,Jordan,640000,Jordan Petroleum Co,45984,JPC
+Gasoline,Motor gasoline for internal combustion engines,South Korea,670000,Korea Energy Corp,45995,KEC
+Gasoline,Motor gasoline for internal combustion engines,Japan,660000,Japan Oil Trading,46001,JOT
+Diesel,Heavy-duty vehicles and heating,China,720000,China Petro Export,45967,CPE
+Diesel,Heavy-duty vehicles and heating,Australia,700000,AUS Energy Pty,45973,AEP
+Diesel,Heavy-duty vehicles and heating,Norway,740000,Norway Oil Export,45979,NOE
+Diesel,Heavy-duty vehicles and heating,Turkey,710000,Turkish Energy A.S.,45985,TEA
+Diesel,Heavy-duty vehicles and heating,Jordan,730000,Jordan Petroleum Co,45996,JPC
+Diesel,Heavy-duty vehicles and heating,South Korea,720000,Korea Energy Corp,46002,KEC
+Jet Fuel,Aviation kerosene fuel,Norway,710299,China Petro Export,46011,CPE
+Jet Fuel,Aviation kerosene fuel,Japan,500000,Japan Oil Trading,45968,JOT
+Jet Fuel,Aviation kerosene fuel,China,520000,Sino Export Ltd,45974,SEL
+Jet Fuel,Aviation kerosene fuel,Australia,560000,AUS Energy Pty,45980,AEP
+Jet Fuel,Aviation kerosene fuel,Norway,530000,Norway Oil Export,45986,NOE
+Jet Fuel,Aviation kerosene fuel,Turkey,540000,Turkish Energy A.S.,45997,TEA
+Jet Fuel,Aviation kerosene fuel,Jordan,550000,Jordan Petroleum Co,46003,JPC
+Heating Oil,Residential and industrial heating,South Korea,810000,Korea Energy Corp,45969,KEC
+Heating Oil,Residential and industrial heating,Japan,830000,Japan Oil Trading,45975,JOT
+Heating Oil,Residential and industrial heating,China,820000,China Petro Export,45981,CPE
+Heating Oil,Residential and industrial heating,Australia,850000,AUS Energy Pty,45992,AEP
+Heating Oil,Residential and industrial heating,Norway,860000,Norway Oil Export,45998,NOE
+Heating Oil,Residential and industrial heating,Turkey,840000,Turkish Energy A.S.,46004,TEA
+LPG,Liquefied petroleum gas â€“ propane and butane,Jordan,600000,Jordan Petroleum Co,45970,JPC
+LPG,Liquefied petroleum gas â€“ propane and butane,South Korea,610000,Korea Energy Corp,45976,KEC
+LPG,Liquefied petroleum gas â€“ propane and butane,Japan,590000,Japan Oil Trading,45982,JOT
+LPG,Liquefied petroleum gas â€“ propane and butane,China,620000,Sino Export Ltd,45993,SEL
+LPG,Liquefied petroleum gas â€“ propane and butane,Australia,600000,AUS Energy Pty,45999,AEP
+LPG,Liquefied petroleum gas â€“ propane and butane,Norway,610000,Norway Oil Export,46005,NOE
+Refinery Gas,Used within refinery process,Turkey,750000,Turkish Energy A.S.,45971,TEA
+Refinery Gas,Used within refinery process,Jordan,770000,Jordan Petroleum Co,45977,JPC
+Refinery Gas,Used within refinery process,South Korea,760000,Korea Energy Corp,45983,KEC
+Refinery Gas,Used within refinery process,Japan,780000,Japan Oil Trading,45994,JOT
+Refinery Gas,Used within refinery process,China,790000,China Petro Export,46000,CPE
+Refinery Gas,Used within refinery process,Australia,800000,AUS Energy Pty,46006,AEP
