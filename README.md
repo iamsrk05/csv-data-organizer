@@ -102,6 +102,3 @@ Through this project, I practiced:
 - Creating simple reports from raw data
 - Building a clean GitHub project for portfolio use
 
-## CV Line
-
-Developed a Python-based CSV data organizer for managing employee, export, and production datasets, including search, cleaning, summary reporting, and structured file output.
